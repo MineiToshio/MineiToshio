@@ -9,5 +9,3 @@ Find more about me here:
 - Instagram: [@MineiToshio](https://instagram.com/MineiToshio)
 - Twitter: [@MineiToshio](https://twitter.com/MineiToshio)
 - LinkedIn: [@MineiToshio](https://linkedin.com/in/MineiToshio)
-
-[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=MineiToshio)](https://github.com/anuraghazra/github-readme-stats)
